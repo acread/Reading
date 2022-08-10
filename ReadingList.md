@@ -16,3 +16,9 @@ TEs in/near genes and made some conclusions... not sure I agree.
 
 
 ## Other epigenetics
+
+
+## Setaria Disease Stuff
+### Comparative Analysis of Antiviral Responses in Brachypodium distachyon and Setaria viridis Reveals Conserved and Unique Outcomes Among C3 and C4 Plant Defenses \
+Infected brachy and viridis (A10) with a bunch of viruses - not so interested in the differences between C3/C4, but these \
+could be interesting pathosystems to try out on our mC mutants.
